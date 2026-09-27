@@ -1,6 +1,11 @@
 baseURL: "/"
-title: "Up Business"
+title: "Neomadic Scholar"
 summaryLength: 20
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 # services:
 #   googleAnalytics:

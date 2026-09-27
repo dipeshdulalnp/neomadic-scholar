@@ -4,22 +4,22 @@ title: "Our main services"
 text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
 cards:
   - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    title: "Counselling"
+    text: "Every student's journey is unique, so our counselling begins by getting to know you—your academic background, interests, strengths, career aspirations, financial considerations, and long-term goals. We carefully assess your competencies and help you identify the course, university, and destination country that best match your profile and ambitions. Whether your priority is academic excellence, career opportunities, affordability, scholarships, post-study work prospects, or future migration pathways, our experienced counsellors provide honest, personalized guidance. With a student-first approach, we empower you to make informed decisions that align with both your aspirations and your family's expectations, laying the foundation for long-term success."
     button:
       label: "Learn more"
       link: "#"
 
   - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    title: "Preparations"
+    text: "We provide comprehensive preparation services to help you achieve your study abroad goals with confidence. Our support includes English language test preparation (IELTS, TOEFL, PTE, Duolingo English Test), SAT, GRE, and GMAT coaching, guided by experienced instructors. Our in-house English instructor is widely regarded as one of the most effective and trusted educators in the Kathmandu Valley, with a proven record of helping students achieve outstanding results. From building language proficiency to mastering standardized tests, we ensure you are fully prepared for academic success. "
     button:
       label: "Learn more"
       link: "#"
 
   - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    title: "Processing"
+    text: "We take ownership of the entire processing of your application from start to finish. You feel that your entire process is in trustworthy hands - from applications to admission, through visas and residence permits, to pre-departure briefings. Our experienced team carefully reviews every academic, financial, and supporting document to identify details that students often overlook. By ensuring all requirements are complete, accurate, and submitted on time, we minimize delays, reduce the risk of errors, and eliminate last-minute hassles during this critical stage. With meticulous planning and years of expertise, we help make your path to studying abroad as smooth and stress-free as possible."
     button:
       label: "Learn more"
       link: "#"

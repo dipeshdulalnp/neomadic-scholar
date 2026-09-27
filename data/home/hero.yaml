@@ -1,13 +1,13 @@
 enable: true
 
-title: "How to **level up** your business"
-text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+title: "Entrust your **Study Abroad** Aspirations to us!"
+text: "Neomadic Scholar is the trusted name in study abroad counselling, preparations, and processing."
 
 buttons:
-  - label: "How we work"
+  - label: "Book IELTS"
     link: "#"
 
-  - label: "Let's talk"
-    link: ""
+  - label: "Study Abroad"
+    link: "#"
 
 image: "images/hero-image.png"

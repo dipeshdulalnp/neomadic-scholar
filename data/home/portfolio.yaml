@@ -1,38 +1,50 @@
 enable: true
 
 items:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/uk.webp"
+    pretitle: "Study in English Medium"
+    title: "Study in the UK"
+    text: "We have partnered with top universities in the UK to provide students with the best opportunities for higher education. Our team of experts will guide you through the application process, ensuring that you have the best chance of success."
 
     buttons: 
-      - label: "See live"
+      - label: "Read Blog"
         link: "#"
 
-      - label: "Read more"
-        link: "#"
+      - label: "Book a free consultation"
+        link: "https://docs.google.com/forms/d/e/1FAIpQLScz5quNpUtgL3dqv885pl4t-911B-Vtk5u3ZnY4e9jVybsXTw/viewform"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/norway.webp"
+    pretitle: "Land of The Nordic Welfare"
+    title: "Study in Norway"
+    text: "Neomadic Scholar has been a leading consultancy in Nepal for students aspiring to study in Norway. We provide expert guidance and support throughout the application process to Masters programmes in English medium in Norway, ensuring a smooth transition for our clients."
 
     buttons: 
-      - label: "See live"
+      - label: "Read Blog"
         link: "#"
 
-      - label: "Read more"
-        link: "#"
+      - label: "Book a free consultation"
+        link: "/study-in-norway/"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/sweden.webp"
+    pretitle: "Sister Country of Norway"
+    title: "Study in Sweden"
+    text: "With possibility of starting study in Sweden journey right from university level, your nordic life will add to the likelihood of more secured and certain career in future."
 
     buttons: 
-      - label: "See live"
-        link: "#"
+      - label: "Read Blog"
+        link: "/tags/study-in-sweden/"
 
-      - label: "Read more"
-        link: "#"
+      - label: "Book a free consultation"
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSdFwcl4fQJGjzGoFmmPRjgTJpFh59d8gwE5s_RdEPqSYBJbHQ/viewform"
+
+  - image: "images/finland.webp"
+    pretitle: "Best Education in the World // Happiest Country in the World"
+    title: "Study in Finland"
+    text: "Our students have been studying, working and settling in Finland from the past few years. Finland offers best education in the world with great efforts in internationalization of higher education and job market."
+
+    buttons: 
+      - label: "Read Blog"
+        link: "/tags/study-in-finland/"
+
+      - label: "Book a free consultation"
+        link: "https://docs.google.com/forms/d/11_Yt6thsWOFQnHRp2wo9YNPqAI02McN5VlcxGuwZhkc"

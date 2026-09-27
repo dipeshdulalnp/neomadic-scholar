@@ -1,7 +1,7 @@
 enable: true
 
-title: "Start your business now!"
-image: "images/services-web-development.png"
+title: "Visit Us"
+image: "images/neomadic-map.webp"
 button:
-  label: "Let's talk"
-  link: "#"
+  label: "Reach NeoMADiC Scholar via Google Maps"
+  link: "https://www.google.com/maps/place/NeoMADiC+Scholar+Education+Consultancy+Pvt.+Ltd./@27.6864147,85.333085,646m/data=!3m1!1e3!4m6!3m5!1s0x39eb1900495ec993:0x633f4629ab7469f6!8m2!3d27.6861519!4d85.3350101!16s%2Fg%2F11md896ky2?entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D"

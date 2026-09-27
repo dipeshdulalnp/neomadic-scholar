@@ -4,21 +4,15 @@ title: "Testimonials"
 
 featured:
   image: "images/testimonials-awards.png"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-  client: "Anonymous Customer"
+  text: "I truly recommend NeoMADiC Scholar Consultancy as they helped me meticulously on my study pursuit in Finland - from IELTS preparation, counseling, and admission to residence permit."
+  client: "Khagindra Paudel (Finland)"
 
 items:
-  - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
+  - text: "NeoMADiC Scholars conversed with me to the core and back and made me more confident to pursue engineering program in Norway - land of hydroelectricity."
+    client: "Saroj Neupane (Norway)"
 
   - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
-
-  - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
-
-  - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
+    client: "Rohit Poudel (UK)"
 
   - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
     client: "Anonymous Customer"
