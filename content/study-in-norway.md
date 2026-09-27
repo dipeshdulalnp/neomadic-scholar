@@ -11,19 +11,19 @@ description = "Get counselling from our counselor who is a graduate from Norway.
   <form action="https://docs.google.com/forms/d/e/1FAIpQLSfRIGQ7lUib_43TnbPWGHYJd6LPJLSBn5sPVpf3TvtQJturcw/formResponse" id="custom-contact-form" method="POST" onsubmit="return validateAndSubmit();" target="hidden_iframe">
     <div class="form-group">
       <label>Full  Name of Student</label>
-      <textarea name="entry.983114800" placeholder="Full  Name of Student" required="" rows="8"></textarea>
+      <textarea name="entry.983114800" placeholder="Full  Name of Student" required="" rows="1"></textarea>
     </div>
     <div class="form-group">
       <label>Latest Academic Qualification</label>
-      <textarea name="entry.2097402162" placeholder="Latest Academic Qualification" required="" rows="8"></textarea>
+      <textarea name="entry.2097402162" placeholder="Latest Academic Qualification" required="" rows="2"></textarea>
     </div>
     <div class="form-group">
       <label>Intended Study Programme in Norway</label>
-      <textarea name="entry.903091946" placeholder="Intended Study Programme in Norway" required="" rows="8"></textarea>
+      <textarea name="entry.903091946" placeholder="Intended Study Programme in Norway" required="" rows="2"></textarea>
     </div>
     <div class="form-group">
       <label>Do you have valid score of English language test?</label>
-      <textarea name="entry.1936835106" placeholder="Do you have valid score of English language test?" required="" rows="8"></textarea>
+      <textarea name="entry.1936835106" placeholder="Mention one of these options: Yes/No/Other Plan" required="" rows="8"></textarea>
     </div>
     <div class="form-group">
       <label>If you have valid score of English language test, please mention the score. (For example: IELTS Academic - 6.5, No Score, TOEFL iBT - 96)</label>
