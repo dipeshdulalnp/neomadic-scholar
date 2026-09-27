@@ -46,7 +46,7 @@ description = "Get counselling from our counselor who is a graduate from Norway.
   .form-group input, .form-group textarea { width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box; font-size: 16px; background: #fff; color: #000; }
   .form-group input:focus, .form-group textarea:focus { border-color: #555555; outline: none; }
   .button-container { text-align: center; margin-top: 25px; }
-  .contact-form-button-submit { background: #555555; color: #fff; border: none; padding: 12px 60px; font-size: 1.1rem; font-weight: bold; border-radius: 50px; cursor: pointer; transition: 0.3s; }
+  .contact-form-button-submit { background: #4b0a3a; color: #fff; border: none; padding: 12px 60px; font-size: 1.1rem; font-weight: bold; border-radius: 50px; cursor: pointer; transition: 0.3s; }
   .contact-form-button-submit:hover { opacity: 0.8; transform: translateY(-2px); }
   .blog-pager, .paging-control { display: none !important; }
 </style>
@@ -64,7 +64,7 @@ description = "Get counselling from our counselor who is a graduate from Norway.
     if (submitted) {
       document.getElementById('custom-contact-form').innerHTML = `
         <div style="display: flex; justify-content: center; align-items: center; min-height: 250px; text-align: center;">
-          <p style="color: #555555; font-size: 1.2rem; font-weight: bold;">Thank you for submitting the form. We will get back to as soon as possible.</p>
+          <p style="color: #110f11; font-size: 1.2rem; font-weight: bold;">Thank you for submitting the form. We will get back to as soon as possible.</p>
         </div>`;
       window.scrollTo({ top: document.querySelector('.contact-form-wrapper').offsetTop - 50, behavior: 'smooth' });
     }
